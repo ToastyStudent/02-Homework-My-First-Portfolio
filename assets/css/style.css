@@ -1,0 +1,98 @@
+/* Styling for the Enitre Webpage */
+* {
+    background-color: antiquewhite;
+}
+
+/* Styling for the Header Section */
+header h1 {
+    display: inline-block;
+    padding-top: 10px;
+    font-size: 200%;
+    margin-left: 20px;
+}
+
+header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-size: 20px;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+/* Styling for the About Me Section */
+#about-me {
+    align-items: center;
+    margin-top: 75px;   
+}
+
+#about-me h2 {
+    text-align: center;
+    font-size: 150%;
+    margin-bottom: 20px;
+}
+
+#about-me img {
+    width: 20%;
+    float: right;
+    margin-bottom: 20px;
+}
+
+#about-me p {
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 70%;
+}
+
+
+/* Styling for the My Work Section */
+#my-work {
+    margin-top: 30%;
+}
+
+#my-work h2 {
+    text-align: center;
+    font-size: 150%;
+    margin-bottom: 20px;
+}
+
+#my-work ul li a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 1000px;
+    height: 1000px;
+}
+
+#my-first-deployed-application a {
+    height: auto;
+    width: 100%; 
+    margin-bottom: 20px;
+}
+
+#my-other-applications a {
+    height: auto;
+    width: 50%; 
+    margin-bottom: 20px;
+}
+
+/* Styling for the Contact Information Section */
+#contact-info {
+    margin-top: 75px;
+}
+
+#contact-info h2 {
+    text-align: center;
+    font-size: 150%;
+    margin-bottom: 20px;
+}
+
+#contact-info ul li {
+    text-align: center;
+    font-size: 150%;
+}
