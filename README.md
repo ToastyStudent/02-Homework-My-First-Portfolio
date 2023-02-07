@@ -16,7 +16,7 @@ Both methods will allow you to effectively "use" my code to the degree possible.
 https://toastystudent.github.io/02-Homework-My-First-Portfolio-Challenge/
 
 # Screenshot of Deployed Application
-
+![A screenshot of the Deployed Application](assets/images/02-Homework%20Screenshot.png)
 
 # Credits
 This project was built using code provided by Northwestern University's Full-stack Development Coding Bootcamp.
